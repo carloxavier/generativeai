@@ -1,1 +1,2 @@
-# generativeai
+# dlai generative ai 
+This jupiter notebook is a copy from the [public one](https://dlai-generative-ai.s3.amazonaws.com/labs/w1-549876/Lab_1_summarize_dialogue.ipynb) provided for the course ["Generative AI with LLMs"](https://www.coursera.org/learn/generative-ai-with-llms)
